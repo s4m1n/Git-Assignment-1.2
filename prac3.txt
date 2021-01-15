@@ -1,0 +1,3 @@
+Git is basically a version control system!!!
+
+Git can change your lives as a developer
